@@ -1,0 +1,29 @@
+{
+  "id": "investment-L1-01",
+  "slug": "01-why-invest",
+  "title": "L1-01 为什么投资：从存钱到让钱工作",
+  "stage": "L1",
+  "stageTitle": "投资世界观",
+  "order": 1,
+  "estimatedMinutes": 45,
+  "difficulty": "beginner",
+  "tags": [
+    "投资入门",
+    "复利",
+    "通货膨胀",
+    "资产配置"
+  ],
+  "prerequisites": [],
+  "learningObjectives": [
+    "理解投资与储蓄的本质区别",
+    "掌握复利的基本计算与长期威力",
+    "认识通货膨胀对购买力的侵蚀",
+    "建立'让钱工作'的核心投资观",
+    "完成个人财务状况自检表"
+  ],
+  "nextLessons": [
+    "investment-L1-02"
+  ],
+  "projectRequired": true,
+  "aiReviewRubric": "investment-project-v1"
+}

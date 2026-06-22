@@ -1,0 +1,117 @@
+{
+  "lessonId": "investment-L1-01",
+  "passingScore": 70,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single_choice",
+      "question": "以下哪项最能体现'投资'与'储蓄'的核心区别？",
+      "options": [
+        "投资一定有风险，储蓄没有风险",
+        "储蓄重在保本和应急，投资重在增值和抗通胀",
+        "投资需要很多钱，储蓄不需要",
+        "储蓄是银行的业务，投资是证券公司的业务"
+      ],
+      "correctAnswer": 1,
+      "explanation": "储蓄的核心目标是安全与流动性，投资的核心目标是让资金在长期内增值并对抗通货膨胀。",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "type": "single_choice",
+      "question": "假设年通胀率为 3%，大约多少年后 100 元的购买力会降到 50 元左右？",
+      "options": [
+        "10 年",
+        "15 年",
+        "23 年",
+        "30 年"
+      ],
+      "correctAnswer": 2,
+      "explanation": "按 72 法则，72/3 = 24 年购买力减半；精确计算约为 23.4 年。",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "type": "true_false",
+      "question": "复利的主要威力体现在投资早期。",
+      "correctAnswer": false,
+      "explanation": "复利的威力主要体现在后期，因为后期收益基数更大，'收益再生收益'的效果更显著。",
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "type": "single_choice",
+      "question": "按照本课对资产与负债的简化定义，以下哪项最可能被归为'资产'？",
+      "options": [
+        "自用汽车（贷款中）",
+        "信用卡账单",
+        "能产生租金的公寓",
+        "每月的生活费支出"
+      ],
+      "correctAnswer": 2,
+      "explanation": "能产生现金流入的出租公寓符合简化版资产定义。",
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "在开始投资前，以下哪些准备是合理的？（多选）",
+      "options": [
+        "预留 3-6 个月的应急资金",
+        "理清自己的月收入与支出",
+        "明确投资目标和时间 horizon",
+        "借入消费贷款追加投资本金"
+      ],
+      "correctAnswer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "应急资金、清晰收支、明确目标都是投资前的基础准备。用消费贷投资会放大风险，不推荐。",
+      "points": 20
+    },
+    {
+      "id": "q6",
+      "type": "single_choice",
+      "question": "如果你的投资年化收益长期低于通货膨胀率，意味着什么？",
+      "options": [
+        "你的实际购买力在下降",
+        "你的投资没有风险",
+        "你不需要纳税",
+        "你的本金绝对安全"
+      ],
+      "correctAnswer": 0,
+      "explanation": "名义收益低于通胀率时，实际收益率为负，购买力被侵蚀。",
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "type": "single_choice",
+      "question": "小王每月存 5000 元，年化 0.3%；小张每月定投 5000 元，年化 7%。十年后，小张的实际购买力大约比小王高多少？",
+      "options": [
+        "5% 左右",
+        "15% 左右",
+        "37% 左右",
+        "80% 左右"
+      ],
+      "correctAnswer": 2,
+      "explanation": "按本课案例，考虑 3% 通胀后，小张实际购买力约 62.3 万，小王约 45.2 万，差距约 37%。",
+      "points": 15
+    },
+    {
+      "id": "q8",
+      "type": "single_choice",
+      "question": "本课建议，投资资金最好是多长时间内不需要动用的钱？",
+      "options": [
+        "1 个月内",
+        "3-5 年",
+        "永远不动",
+        "随时可用"
+      ],
+      "correctAnswer": 1,
+      "explanation": "权益类投资波动较大，建议用 3-5 年内不需要动用的资金参与。",
+      "points": 15
+    }
+  ]
+}
